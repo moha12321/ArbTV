@@ -3,5 +3,7 @@
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Aljazeera_Arabic.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-id="AlJazeeraMubasher" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AJLogo.png" group-title="News",Al Jazeera Mubasher
 https://raw.githubusercontent.com/moha12321/ArbTV/master/AljazeeraMubasher.m3u8
+#EXTINF:-1 tvg-name="Al Sharja" tvg-id="sharja" group-title="Filme",Al Sharja
+https://raw.githubusercontent.com/moha12321/ArbTV/master/Al_Sharja.m3u8
 #EXTINF:-1 tvg-name="Dubai One" tvg-id="ARD.de" group-title="Filme",Dubai One
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai_One.m3u8
