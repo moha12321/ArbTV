@@ -7,9 +7,9 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/AljazeeraMubasher.m3u8
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al_Sharja.m3u8
 #EXTINF:-1 tvg-name="Quran Alkareem" tvg-id="qk" group-title="Filme",Quran Alkareem
 https://raw.githubusercontent.com/moha12321/ArbTV/master/QK.m3u8
-#EXTINF:-1 tvg-name="Al Sharqia" tvg-id="alsharqia" group-title="News",Al Sharqia
+#EXTINF:-1 tvg-name="Al Sharqia" tvg-id="alsharqia" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alsharqia.png" group-title="News",Al Sharqia
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al-Sharqia.m3u8
-#EXTINF:-1 tvg-name="Al Sharqia News" tvg-id="alsharqianews" group-title="News",Al Sharqia News
+#EXTINF:-1 tvg-name="Al Sharqia News" tvg-id="alsharqianews" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alsharqia.png" group-title="News",Al Sharqia News
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al-SharqiaNews.m3u8
 #EXTINF:-1 tvg-name="Kuwait 1" tvg-id="kuwait1" group-title="News",Kuwait 1
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait1.m3u8
