@@ -35,3 +35,5 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/AbuDhabi.m3u8
 https://raw.githubusercontent.com/moha12321/ArbTV/master/NationalGeographic.m3u8
 #EXTINF:-1 tvg-name="KSA 1" tvg-id="ksa1" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/KSA1.jpeg" group-title="Filme",KSA 1
 https://raw.githubusercontent.com/moha12321/ArbTV/master/KSA1.m3u8
+#EXTINF:-1 tvg-name="Al Khalij" tvg-id="alkhalij" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AlKhalij.png" group-title="Filme",Al Khalij
+https://raw.githubusercontent.com/moha12321/ArbTV/master/Alkhalij.m3u8
