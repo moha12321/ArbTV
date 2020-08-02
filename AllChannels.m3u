@@ -25,3 +25,5 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.m3u8
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Sama_Dubai.m3u8
 #EXTINF:-1 tvg-name="Dubai One" tvg-id="dubaione" group-title="Filme",Dubai One
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai_One.m3u8
+#EXTINF:-1 tvg-name="KSA 1" tvg-id="ksa1" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/KSA1.jpeg" group-title="Filme",KSA 1
+https://raw.githubusercontent.com/moha12321/ArbTV/master/KSA1.m3u8
