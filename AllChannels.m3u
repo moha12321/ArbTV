@@ -19,5 +19,9 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait2.m3u8
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Qatar.m3u8
 #EXTINF:-1 tvg-name="Oman" tvg-id="oman" group-title="News",Oman
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Oman.m3u8
-#EXTINF:-1 tvg-name="Dubai One" tvg-id="ARD.de" group-title="Filme",Dubai One
+#EXTINF:-1 tvg-name="Dubai" tvg-id="dubai" group-title="Filme",Dubai 
+https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.m3u8
+#EXTINF:-1 tvg-name="Sama Dubai" tvg-id="samadubai" group-title="Filme",Sama Dubai
+https://raw.githubusercontent.com/moha12321/ArbTV/master/Sama_Dubai.m3u8
+#EXTINF:-1 tvg-name="Dubai One" tvg-id="dubaione" group-title="Filme",Dubai One
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai_One.m3u8
