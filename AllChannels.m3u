@@ -23,11 +23,11 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait2.m3u8
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Qatar.m3u8
 #EXTINF:-1 tvg-name="Oman" tvg-id="oman" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Oman.png" group-title="News",Oman
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Oman.m3u8
-#EXTINF:-1 tvg-name="Dubai" tvg-id="dubai" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.png" group-title="Filme",Dubai 
+#EXTINF:-1 tvg-name="Dubai" tvg-id="Dubai TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.png" group-title="Filme",Dubai 
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.m3u8
 #EXTINF:-1 tvg-name="Sama Dubai" tvg-id="samadubai" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SamaDubai.png" group-title="Filme",Sama Dubai
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Sama_Dubai.m3u8
-#EXTINF:-1 tvg-name="Dubai One" tvg-id="dubaione" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/DubaiOne.png" group-title="Filme",Dubai One
+#EXTINF:-1 tvg-name="Dubai One" tvg-id="Dubai One" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/DubaiOne.png" group-title="Filme",Dubai One
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai_One.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi" tvg-id="abudhabi" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AbuDhabi.png" group-title="Filme", Abu Dhabi
 https://raw.githubusercontent.com/moha12321/ArbTV/master/AbuDhabi.m3u8
