@@ -3,7 +3,7 @@
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Aljazeera_Arabic.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-id="AlJazeeraMubasher" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AJLogo.png" group-title="News",Al Jazeera Mubasher
 https://raw.githubusercontent.com/moha12321/ArbTV/master/AljazeeraMubasher.m3u8
-#EXTINF:-1 tvg-name="Al Sharja" tvg-id="sharja" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SharjahTV.png" group-title="Filme",Al Sharja
+#EXTINF:-1 tvg-name="Sharja TV" tvg-id="Sharja TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SharjahTV.png" group-title="Filme",Sharja TV
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al_Sharja.m3u8
 #EXTINF:-1 tvg-name="Quran Alkareem" tvg-id="qk" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/QK.png" group-title="Filme",Quran Alkareem
 https://raw.githubusercontent.com/moha12321/ArbTV/master/QK.m3u8
