@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Al Sharqiya
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=200000,NAME="1080p",RESOLUTION=1920x1080
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
