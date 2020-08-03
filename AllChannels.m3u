@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/QK.m3u8
 #EXTINF:-1 tvg-name="Ayat" tvg-id="ayat" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.png" group-title="Filme",Ayat
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.m3u8
 #EXTINF:-1 tvg-name="Al Sharqia" tvg-id="alsharqia" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alsharqia.png" group-title="News",Al Sharqia
-https://raw.githubusercontent.com/moha12321/ArbTV/master/Al-Sharqia.m3u8
+https://raw.githubusercontent.com/moha12321/ArbTV/master/Al-Sharqia.m3u
 #EXTINF:-1 tvg-name="Al Sharqia News" tvg-id="alsharqianews" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alsharqia.png" group-title="News",Al Sharqia News
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al-SharqiaNews.m3u8
 #EXTINF:-1 tvg-name="Al Arabia" tvg-id="alarabia" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alarabia.png" group-title="News",Al Arabia
