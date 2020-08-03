@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=200000,NAME="1080p",RESOLUTION=1920x1080
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1085325,CODECS="avc1.77.40,mp4a.40.2",RESOLUTION=800x450
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w769097139.m3u8?v=
