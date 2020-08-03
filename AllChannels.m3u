@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait2.m3u8
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Qatar.m3u8
 #EXTINF:-1 tvg-name="Oman" tvg-id="oman" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Oman.png" group-title="News",Oman
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Oman.m3u8
-#EXTINF:-1 tvg-name="Dubai" tvg-id="Dubai TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.png" group-title="Filme",Dubai 
+#EXTINF:-1 tvg-name="Dubai TV" tvg-id="Dubai TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.png" group-title="Filme",Dubai 
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.m3u8
 #EXTINF:-1 tvg-name="Sama Dubai" tvg-id="samadubai" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SamaDubai.png" group-title="Filme",Sama Dubai
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Sama_Dubai.m3u8
