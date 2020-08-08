@@ -17,11 +17,11 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Al-SharqiaNews.m3u8
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al_Arabia.m3u8
 #EXTINF:-1 tvg-name="Kuwait 1" tvg-id="kuwait1" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait1.png" group-title="News",Kuwait 1
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait1.m3u8
-#EXTINF:-1 tvg-name="Kuwait 2" tvg-id="kuwait2" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait1.png" group-title="News",Kuwait 2
+#EXTINF:-1 tvg-name="Kuwait 2" tvg-id="kuwait2" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait2.png" group-title="News",Kuwait 2
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait2.m3u8
 #EXTINF:-1 tvg-name="Qatar" tvg-id="qatar" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Qatar.png" group-title="News",Qatar
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Qatar.m3u8
-#EXTINF:-1 tvg-name="Oman" tvg-id="oman" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Oman.png" group-title="News",Oman
+#EXTINF:-1 tvg-name="Oman" tvg-id="Oman" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Oman.png" group-title="News",Oman
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Oman.m3u8
 #EXTINF:-1 tvg-name="Dubai TV" tvg-id="Dubai TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.png" group-title="Filme",Dubai 
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.m3u8
