@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1601812969~dirs=1~hash=002f74806736d5bd471a1/ksaquran.smil/ksaquran_chunks.m3u8
