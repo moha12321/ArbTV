@@ -33,11 +33,11 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Qatar.m3u8
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Oman.m3u8
 #EXTINF:-1 tvg-name="Dubai TV" tvg-id="Dubai TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.png" group-title="Filme",سماء دبي 
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.m3u8
-#EXTINF:-1 tvg-name="سماء دبي" tvg-id="samadubai" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SamaDubai.png" group-title="Filme",Sama Dubai
+#EXTINF:-1 tvg-name="سما دبي" tvg-id="samadubai" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SamaDubai.png" group-title="Filme",سما دبي
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Sama_Dubai.m3u8
 #EXTINF:-1 tvg-name="Dubai One" tvg-id="Dubai One" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/DubaiOne.png" group-title="Filme",Dubai One
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai_One.m3u8
-#EXTINF:-1 tvg-name="ابو ضبي" tvg-id="abudhabi" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AbuDhabi.png" group-title="Filme",ابو ضبي
+#EXTINF:-1 tvg-name="ابو ظبي" tvg-id="abudhabi" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AbuDhabi.png" group-title="Filme",ابو ظبي
 https://raw.githubusercontent.com/moha12321/ArbTV/master/AbuDhabi.m3u8
 #EXTINF:-1 tvg-name="National Geographic" tvg-id="natgeo" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/NatGeo.png" group-title="Filme", National Geographic
 https://raw.githubusercontent.com/moha12321/ArbTV/master/NationalGeographic.m3u8
