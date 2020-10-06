@@ -15,6 +15,8 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.m3u8
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al-Sharqia.m3u8
 #EXTINF:-1 tvg-name="Al Sharqia News" tvg-id="alsharqianews" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alsharqia.png" group-title="News",Al Sharqia News
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al-SharqiaNews.m3u8
+#EXTINF:-1 tvg-name="Al Iraqia News" tvg-id="aliraqianews" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Aliraqia.jpg" group-title="News",Al Iraqia News
+https://raw.githubusercontent.com/moha12321/ArbTV/master/AliraqiaNews.m3u8
 #EXTINF:-1 tvg-name="Al Arabia" tvg-id="alarabia" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alarabia.png" group-title="News",Al Arabia
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al_Arabia.m3u8
 #EXTINF:-1 tvg-name="Kuwait 1" tvg-id="kuwait1" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait1.png" group-title="News",Kuwait 1
