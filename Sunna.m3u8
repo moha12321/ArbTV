@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1601986752~dirs=1~hash=01a3b88a5ba6d71a2ffd4/ksasunna.smil/ksasunna_chunks.m3u8
