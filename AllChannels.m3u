@@ -38,4 +38,4 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/KSA1.m3u8
 #EXTINF:-1 tvg-name="Al Khaleej" tvg-id="alkhaleej" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alkhaleej.jpg" group-title="Filme",Al Khaleej
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Alkhaleej.m3u8
 #EXTINF:-1 tvg-name="Zad" tvg-id="zad" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alkhaleej.jpg" group-title="Filme",Zad
-plugin://plugin.video.youtube/play/?video_id=j6QdLdLE2aM
+https://raw.githubusercontent.com/moha12321/ArbTV/master/Zad.strm
