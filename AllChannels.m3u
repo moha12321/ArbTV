@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.m3u8
 https://raw.githubusercontent.com/moha12321/ArbTV/master/AlResala.m3u8
 #EXTINF:-1 tvg-name="زاد" tvg-id="zad" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Zad.jpg" group-title="Filme",Zad
 plugin://plugin.video.youtube/play/?video_id=j6QdLdLE2aM
-#EXTINF:-1 tvg-name="الشرقية" tvg-id="Al sharqya" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alsharqia.png" group-title="News",Al sharqya
+#EXTINF:-1 tvg-name="الشرقية" tvg-id="Al sharqya" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alsharqia.png" group-title="News",الشرقية
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al-Sharqia.m3u8
 #EXTINF:-1 tvg-name="الشرقية الأخبارية" tvg-id="alsharqianews" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alsharqia.png" group-title="News",Al Sharqia News
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al-SharqiaNews.m3u8
