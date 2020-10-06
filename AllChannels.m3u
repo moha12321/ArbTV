@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Al_Sharja.m3u8
 https://raw.githubusercontent.com/moha12321/ArbTV/master/QK2.m3u8
 #EXTINF:-1 tvg-name="Alsunna" tvg-id="sunna" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Sunna.png" group-title="Filme",Alsunna
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Sunna.m3u8
-#EXTINF:-1 tvg-name="Ayat" tvg-id="ayat" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.png" group-title="Filme",Ayat
+#EXTINF:-1 tvg-name="ايات" tvg-id="ayat" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.png" group-title="Filme",ايات
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.m3u8
 #EXTINF:-1 tvg-name="Al Resala" tvg-id="alresala" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AlResala.jpg" group-title="Filme", Al Resala
 https://raw.githubusercontent.com/moha12321/ArbTV/master/AlResala.m3u8
