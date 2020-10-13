@@ -6,15 +6,15 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/AljazeeraMubasher.m3u8
 #EXTINF:-1 tvg-name="الشارقة" tvg-id="Sharjah TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SharjahTV.png" group-title="Filme",الشارقة
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al_Sharja.m3u8
 #EXTINF:-1 tvg-name="القرأن الكريم" tvg-id="qk" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/QK.png" group-title="Filme",القرأن الكريم
-https://raw.githubusercontent.com/moha12321/ArbTV/master/QK2.m3u8
+plugin://plugin.video.youtube/play/?video_id=y_dHT1mvSME
 #EXTINF:-1 tvg-name="السنة النبوية" tvg-id="sunna" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Sunna.png" group-title="Filme",السنة النبوية
-https://raw.githubusercontent.com/moha12321/ArbTV/master/Sunna.m3u8
+plugin://plugin.video.youtube/play/?video_id=_tITVx7YLHY
 #EXTINF:-1 tvg-name="ايات" tvg-id="ayat" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.png" group-title="Filme",ايات
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.m3u8
 #EXTINF:-1 tvg-name="الرسالة" tvg-id="alresala" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AlResala.jpg" group-title="Filme",الرسالة
 https://raw.githubusercontent.com/moha12321/ArbTV/master/AlResala.m3u8
 #EXTINF:-1 tvg-name="زاد" tvg-id="zad" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Zad.jpg" group-title="Filme",زاد
-plugin://plugin.video.youtube/play/?video_id=j6QdLdLE2aM
+plugin://plugin.video.youtube/play/?video_id=HZpMGsGY_uM
 #EXTINF:-1 tvg-name="الشرقية" tvg-id="Al sharqya" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alsharqia.png" group-title="News",الشرقية
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al-Sharqia.m3u8
 #EXTINF:-1 tvg-name="الشرقية الأخبارية" tvg-id="alsharqianews" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alsharqia.png" group-title="News",الشرقية الأخبارية
