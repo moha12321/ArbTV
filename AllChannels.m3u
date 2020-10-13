@@ -43,5 +43,7 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/AbuDhabi.m3u8
 https://raw.githubusercontent.com/moha12321/ArbTV/master/NationalGeographic.m3u8
 #EXTINF:-1 tvg-name="السعودية" tvg-id="ksa1" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/KSA1.jpeg" group-title="Filme",السعودية
 https://raw.githubusercontent.com/moha12321/ArbTV/master/KSA1.m3u8
+#EXTINF:-1 tvg-name="السعودية الإخبارية" tvg-id="ksa1" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/KSA1.jpeg" group-title="Filme",السعودية الإخبارية
+plugin://plugin.video.youtube/play/?video_id=9FVzptPRfRU
 #EXTINF:-1 tvg-name="الخليج" tvg-id="alkhaleej" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alkhaleej.jpg" group-title="Filme",الخليج
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Alkhaleej.m3u8
