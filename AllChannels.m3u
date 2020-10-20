@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Al_Sharja.m3u8
 #EXTINF:-1 tvg-name="القرأن الكريم" tvg-id="qk" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/QK.png" group-title="Filme",القرأن الكريم
 plugin://plugin.video.youtube/play/?video_id=MCltUhJTTwg
 #EXTINF:-1 tvg-name="السنة النبوية" tvg-id="sunna" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Sunna.png" group-title="Filme",السنة النبوية
-plugin://plugin.video.youtube/play/?video_id=MCltUhJTTwg
+plugin://plugin.video.youtube/play/?video_id=o6HJMA7a7uI
 #EXTINF:-1 tvg-name="ايات" tvg-id="ayat" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.png" group-title="Filme",ايات
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.m3u8
 #EXTINF:-1 tvg-name="الرسالة" tvg-id="alresala" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AlResala.jpg" group-title="Filme",الرسالة
