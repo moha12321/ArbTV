@@ -47,5 +47,5 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/KSA1.m3u8
 plugin://plugin.video.youtube/play/?video_id=9FVzptPRfRU
 #EXTINF:-1 tvg-name="الخليج" tvg-id="alkhaleej" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alkhaleej.jpg" group-title="Filme",الخليج
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Alkhaleej.m3u8
-#EXTINF:-1 tvg-name="الخليج" tvg-id="alkhaleej" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Alkhaleej.jpg" group-title="Filme",القرأن الكريم احمد العجمي 
-plugin://plugin.video.youtube/play/?playlist_id=$PL5jkFTg3NXIwheso23LblrTEvo7qUTXgt
+#EXTINF:-1 tvg-name="الخليج" tvg-id="alkhaleej" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Ajmi.jpg" group-title="Filme",القرأن الكريم احمد العجمي 
+plugin://plugin.video.youtube/play/?playlist_id=PL5jkFTg3NXIwheso23LblrTEvo7qUTXgt
