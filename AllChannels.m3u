@@ -6,9 +6,9 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/AljazeeraMubasher.m3u8
 #EXTINF:-1 tvg-name="الشارقة" tvg-id="Sharjah TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SharjahTV.png" group-title="Filme",الشارقة
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al_Sharja.m3u8
 #EXTINF:-1 tvg-name="القرأن الكريم" tvg-id="qk" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/QK.png" group-title="Filme",القرأن الكريم
-https://cllive.itworkscdn.net/ksaquranlive/token=nva=1603028252~dirs=1~hash=0b47ac099639e99446085/ksaquran.smil/ksaquran_chunks.m3u8
+plugin://plugin.video.youtube/play/?video_id=MCltUhJTTwg
 #EXTINF:-1 tvg-name="السنة النبوية" tvg-id="sunna" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Sunna.png" group-title="Filme",السنة النبوية
-https://cllive.itworkscdn.net/ksasunnalive/token=nva=1603028325~dirs=1~hash=0abe21a89a3963e60e14d/ksasunna.smil/ksasunna_chunks.m3u8
+plugin://plugin.video.youtube/play/?video_id=MCltUhJTTwg
 #EXTINF:-1 tvg-name="ايات" tvg-id="ayat" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.png" group-title="Filme",ايات
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.m3u8
 #EXTINF:-1 tvg-name="الرسالة" tvg-id="alresala" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AlResala.jpg" group-title="Filme",الرسالة
