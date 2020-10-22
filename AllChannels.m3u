@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Aljazeera_Arabic.m3u8
 #EXTINF:-1 tvg-name="الجزيرة مباشر" tvg-id="AlJazeeraMubasher" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AJLogo.png" group-title="News",الجزيرة مباشر
 https://raw.githubusercontent.com/moha12321/ArbTV/master/AljazeeraMubasher.m3u8
 #EXTINF:-1 tvg-name="الجزيرة الوثائقية" tvg-id="AlJazeeraMubasher" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AJLogo.png" group-title="News",الجزيرة مباشر
-https://raw.githubusercontent.com/moha12321/ArbTV/master/AljazeeraMubasher.m3u8
+https://raw.githubusercontent.com/moha12321/ArbTV/master/AJDoc.m3u8
 #EXTINF:-1 tvg-name="الشارقة" tvg-id="Sharjah TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SharjahTV.png" group-title="Filme",الشارقة
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al_Sharja.m3u8
 #EXTINF:-1 tvg-name="القرأن الكريم" tvg-id="qk" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/QK.png" group-title="Filme",القرأن الكريم
