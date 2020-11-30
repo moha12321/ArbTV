@@ -8,9 +8,9 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/AJDoc.m3u8
 #EXTINF:-1 tvg-name="الشارقة" tvg-id="Sharjah TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SharjahTV.png" group-title="Filme",الشارقة
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Al_Sharja.m3u8
 #EXTINF:-1 tvg-name="القرأن الكريم" tvg-id="qk" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/QK.png" group-title="Filme",القرأن الكريم
-plugin://plugin.video.youtube/play/?video_id=dzOltlIqL0s
+plugin://plugin.video.youtube/play/?video_id=clDS9_R84Eo
 #EXTINF:-1 tvg-name="السنة النبوية" tvg-id="sunna" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Sunna.png" group-title="Filme",السنة النبوية
-plugin://plugin.video.youtube/play/?video_id=8MpWUsdlp6M
+plugin://plugin.video.youtube/play/?video_id=7RaPOfvCk7U
 #EXTINF:-1 tvg-name="ايات" tvg-id="ayat" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.png" group-title="Filme",ايات
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.m3u8
 #EXTINF:-1 tvg-name="الرسالة" tvg-id="alresala" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AlResala.jpg" group-title="Filme",الرسالة
