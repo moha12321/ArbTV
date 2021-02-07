@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=1920x1080,CODECS="avc1.64002a,mp4a.40.2"
-https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8?codecs=9355630&v=ZWxhaG1hZC5jb20=
+https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_1080p/chunks.m3u8?p=48&s=1612705604&e=1612792004&cf=1612792004&h=b5a83169ee3f53bc8463a51ab730b49c
