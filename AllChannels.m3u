@@ -8,9 +8,11 @@ plugin://plugin.video.youtube/play/?video_id=u5E07MwNCF0
 #EXTINF:-1 tvg-name="الشارقة" tvg-id="Sharjah TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SharjahTV.png" group-title="Filme",الشارقة
 https://svs.itworkscdn.net/smc1live/smc1.smil//smc1tv_chunks.m3u8
 #EXTINF:-1 tvg-name="القرأن الكريم" tvg-id="qk" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/QK.png" group-title="Filme",القرأن الكريم
-plugin://plugin.video.youtube/play/?video_id=clDS9_R84Eo
+plugin://plugin.video.youtube/play/?video_id=O9GUStLvdyw
 #EXTINF:-1 tvg-name="السنة النبوية" tvg-id="sunna" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Sunna.png" group-title="Filme",السنة النبوية
-plugin://plugin.video.youtube/play/?video_id=7RaPOfvCk7U
+plugin://plugin.video.youtube/play/?video_id=6489vL4muOs
+#EXTINF:-1 tvg-name="قناة العفاسي" tvg-id="sunna" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Sunna.png" group-title="Filme",السنة النبوية
+plugin://plugin.video.youtube/play/?video_id=JipS0hKqQ0M
 #EXTINF:-1 tvg-name="ايات" tvg-id="ayat" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.png" group-title="Filme",ايات
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.m3u8
 #EXTINF:-1 tvg-name="الرسالة" tvg-id="alresala" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AlResala.jpg" group-title="Filme",الرسالة
