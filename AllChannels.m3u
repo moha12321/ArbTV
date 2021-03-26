@@ -32,7 +32,9 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait1.m3u8
 #EXTINF:-1 tvg-name="الكويت 2" tvg-id="kuwait2" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait2.png" group-title="News",الكويت 2
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Kuwait2.m3u8
 #EXTINF:-1 tvg-name="قطر" tvg-id="qatar" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Qatar.png" group-title="News",قطر
-https://raw.githubusercontent.com/moha12321/ArbTV/master/Qatar.m3u8
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
+#EXTINF:-1 tvg-name="قطر 2" tvg-id="qatar" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Qatar2.png" group-title="News",2 قطر
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master720p.m3u8
 #EXTINF:-1 tvg-name="عمان" tvg-id="Oman" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Oman.png" group-title="News",عمان
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Oman.m3u8
 #EXTINF:-1 tvg-name="Dubai TV" tvg-id="Dubai TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.png" group-title="Filme",سماء دبي 
