@@ -11,10 +11,10 @@ https://svs.itworkscdn.net/smc1live/smc1.smil//smc1tv_chunks.m3u8
 plugin://plugin.video.youtube/play/?video_id=O9GUStLvdyw
 #EXTINF:-1 tvg-name="السنة النبوية" tvg-id="sunna" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Sunna.png" group-title="Filme",السنة النبوية
 plugin://plugin.video.youtube/play/?video_id=6489vL4muOs
-#EXTINF:-1 tvg-name="قناة العفاسي" tvg-id="sunna" tvg-logo="" group-title="Filme",السنة النبوية
+#EXTINF:-1 tvg-name="قناة العفاسي" tvg-id="sunna" tvg-logo="" group-title="Filme",قناة العفاسي
 plugin://plugin.video.youtube/play/?video_id=JipS0hKqQ0M
 #EXTINF:-1 tvg-name="ايات" tvg-id="ayat" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.png" group-title="Filme",ايات
-https://raw.githubusercontent.com/moha12321/ArbTV/master/Ayat.m3u8
+https://stream.holol.com/live/ayat/playlist.m3u8
 #EXTINF:-1 tvg-name="الرسالة" tvg-id="alresala" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AlResala.jpg" group-title="Filme",الرسالة
 https://raw.githubusercontent.com/moha12321/ArbTV/master/AlResala.m3u8
 #EXTINF:-1 tvg-name="زاد" tvg-id="zad" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Zad.jpg" group-title="Filme",زاد
