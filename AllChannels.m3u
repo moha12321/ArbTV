@@ -8,7 +8,7 @@ plugin://plugin.video.youtube/play/?video_id=u5E07MwNCF0
 #EXTINF:-1 tvg-name="الشارقة" tvg-id="Sharjah TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SharjahTV.png" group-title="Filme",الشارقة
 https://svs.itworkscdn.net/smc1live/smc1.smil//smc1tv_chunks.m3u8
 #EXTINF:-1 tvg-name="القرأن الكريم" tvg-id="qk" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/QK.png" group-title="Filme",القرأن الكريم
-plugin://plugin.video.youtube/play/?video_id=O9GUStLvdyw
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1634680042~dirs=1~hash=067d744efa9077b3e0db8/ksaquran.smil/ksaquran_chunks.m3u8
 #EXTINF:-1 tvg-name="السنة النبوية" tvg-id="sunna" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Sunna.png" group-title="Filme",السنة النبوية
 plugin://plugin.video.youtube/play/?video_id=6489vL4muOs
 #EXTINF:-1 tvg-name="قناة العفاسي" tvg-id="sunna" tvg-logo="" group-title="Filme",قناة العفاسي
