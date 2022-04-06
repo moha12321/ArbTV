@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/moha12321/ArbTV/master/Oman.m3u8
 #EXTINF:-1 tvg-name="Dubai TV" tvg-id="Dubai TV" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.png" group-title="Filme",سماء دبي 
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai.m3u8
 #EXTINF:-1 tvg-name="سما دبي" tvg-id="samadubai" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/SamaDubai.png" group-title="Filme",سما دبي
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8?
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b5000000.m3u8?
 #EXTINF:-1 tvg-name="Dubai One" tvg-id="Dubai One" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/DubaiOne.png" group-title="Filme",Dubai One
 https://raw.githubusercontent.com/moha12321/ArbTV/master/Dubai_One.m3u8
 #EXTINF:-1 tvg-name="ابو ظبي" tvg-id="abudhabi" tvg-logo="https://raw.githubusercontent.com/moha12321/ArbTV/master/AbuDhabi.png" group-title="Filme",ابو ظبي
